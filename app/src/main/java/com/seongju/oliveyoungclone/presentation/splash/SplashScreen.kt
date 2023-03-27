@@ -64,8 +64,8 @@ fun SplashScreenBody() {
                 )
         )
         Image(
-            painter = painterResource(id = R.drawable.rogo_text),
-            contentDescription = "splash rogo image",
+            painter = painterResource(id = R.drawable.logo_text),
+            contentDescription = "splash logo image",
             contentScale = ContentScale.FillWidth,
             modifier = Modifier
                 .padding(horizontal = SpaceDefault)
